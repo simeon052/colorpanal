@@ -1,0 +1,12 @@
+/Users/matsussa/Documents/sources/colorpanal/bin/Debug/MacDemo.exe
+/Users/matsussa/Documents/sources/colorpanal/bin/Debug/MacDemo.pdb
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/actool/_PartialAppManifest.items
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/MacDemo.csproj.CoreCompileInputs.cache
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/MacDemo.exe
+/Users/matsussa/Documents/sources/colorpanal/obj/Debug/MacDemo.pdb

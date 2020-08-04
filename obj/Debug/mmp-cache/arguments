@@ -1,0 +1,24 @@
+# Version: 6.18.2.1 (d16-6): 29c4ea731
+/Library/Frameworks/Xamarin.Mac.framework/Versions/6.18.2.1/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/6.18.2.1/lib/mmp/mmp.exe \
+	/debug \
+	/output:/Users/matsussa/Documents/sources/colorpanal/bin/Debug/ \
+	/name:MacDemo \
+	'/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.15 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/matsussa/Documents/sources/colorpanal/bin/Debug/MacDemo.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/matsussa/Documents/sources/colorpanal/obj/Debug/mmp-cache \
+	@/Users/matsussa/Documents/sources/colorpanal/obj/Debug/response-file.rsp \
+	-q \
+	-q \
+	-q \
+	-q \
